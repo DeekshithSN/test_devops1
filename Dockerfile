@@ -1,3 +1,3 @@
 
-FROM ubuntu
+FROM centos
 RUN touch a b
