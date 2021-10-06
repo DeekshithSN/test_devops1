@@ -12,3 +12,7 @@ this is to test git activities
 ```
 kfhlhfljg
 ````
+
+
+git fetch 
+git pull
