@@ -1,0 +1,146 @@
+[
+  {
+    "name": "Dockerfile",
+    "commit": {
+      "sha": "9a35df37fc969091b858b2297f010238fd3e2959",
+      "url": "https://api.github.com/repos/DeekshithSN/microservices-architect-config-starter/commits/9a35df37fc969091b858b2297f010238fd3e2959"
+    },
+    "protected": false,
+    "protection": {
+      "enabled": false,
+      "required_status_checks": {
+        "enforcement_level": "off",
+        "contexts": [
+
+        ]
+      }
+    },
+    "protection_url": "https://api.github.com/repos/DeekshithSN/microservices-architect-config-starter/branches/Dockerfile/protection"
+  },
+  {
+    "name": "docker-setup",
+    "commit": {
+      "sha": "36a87d9970a0299a7e361ab91b178ab8823ccbd6",
+      "url": "https://api.github.com/repos/DeekshithSN/microservices-architect-config-starter/commits/36a87d9970a0299a7e361ab91b178ab8823ccbd6"
+    },
+    "protected": false,
+    "protection": {
+      "enabled": false,
+      "required_status_checks": {
+        "enforcement_level": "off",
+        "contexts": [
+
+        ]
+      }
+    },
+    "protection_url": "https://api.github.com/repos/DeekshithSN/microservices-architect-config-starter/branches/docker-setup/protection"
+  },
+  {
+    "name": "helm-charts",
+    "commit": {
+      "sha": "d607166ea1bf7eae9b5909d204a2990744fdbb89",
+      "url": "https://api.github.com/repos/DeekshithSN/microservices-architect-config-starter/commits/d607166ea1bf7eae9b5909d204a2990744fdbb89"
+    },
+    "protected": false,
+    "protection": {
+      "enabled": false,
+      "required_status_checks": {
+        "enforcement_level": "off",
+        "contexts": [
+
+        ]
+      }
+    },
+    "protection_url": "https://api.github.com/repos/DeekshithSN/microservices-architect-config-starter/branches/helm-charts/protection"
+  },
+  {
+    "name": "helm",
+    "commit": {
+      "sha": "50b64c4a48f72b095e78c318e6da48d4f015b4c4",
+      "url": "https://api.github.com/repos/DeekshithSN/microservices-architect-config-starter/commits/50b64c4a48f72b095e78c318e6da48d4f015b4c4"
+    },
+    "protected": false,
+    "protection": {
+      "enabled": false,
+      "required_status_checks": {
+        "enforcement_level": "off",
+        "contexts": [
+
+        ]
+      }
+    },
+    "protection_url": "https://api.github.com/repos/DeekshithSN/microservices-architect-config-starter/branches/helm/protection"
+  },
+  {
+    "name": "kubernetes-manifest",
+    "commit": {
+      "sha": "d1c63f3c4a348dcce98a99a5af87c546cb0fb2b7",
+      "url": "https://api.github.com/repos/DeekshithSN/microservices-architect-config-starter/commits/d1c63f3c4a348dcce98a99a5af87c546cb0fb2b7"
+    },
+    "protected": false,
+    "protection": {
+      "enabled": false,
+      "required_status_checks": {
+        "enforcement_level": "off",
+        "contexts": [
+
+        ]
+      }
+    },
+    "protection_url": "https://api.github.com/repos/DeekshithSN/microservices-architect-config-starter/branches/kubernetes-manifest/protection"
+  },
+  {
+    "name": "main",
+    "commit": {
+      "sha": "ddf86957dd1a1c2ca5a22b036d4549497980c6bd",
+      "url": "https://api.github.com/repos/DeekshithSN/microservices-architect-config-starter/commits/ddf86957dd1a1c2ca5a22b036d4549497980c6bd"
+    },
+    "protected": false,
+    "protection": {
+      "enabled": false,
+      "required_status_checks": {
+        "enforcement_level": "off",
+        "contexts": [
+
+        ]
+      }
+    },
+    "protection_url": "https://api.github.com/repos/DeekshithSN/microservices-architect-config-starter/branches/main/protection"
+  },
+  {
+    "name": "patch-1",
+    "commit": {
+      "sha": "a07ff53a31a3d72dbe14590b1966ae76281e7dff",
+      "url": "https://api.github.com/repos/DeekshithSN/microservices-architect-config-starter/commits/a07ff53a31a3d72dbe14590b1966ae76281e7dff"
+    },
+    "protected": false,
+    "protection": {
+      "enabled": false,
+      "required_status_checks": {
+        "enforcement_level": "off",
+        "contexts": [
+
+        ]
+      }
+    },
+    "protection_url": "https://api.github.com/repos/DeekshithSN/microservices-architect-config-starter/branches/patch-1/protection"
+  },
+  {
+    "name": "ui-repo-geo",
+    "commit": {
+      "sha": "34fecf0cb70275f89eeb8725f8946281a3490e44",
+      "url": "https://api.github.com/repos/DeekshithSN/microservices-architect-config-starter/commits/34fecf0cb70275f89eeb8725f8946281a3490e44"
+    },
+    "protected": false,
+    "protection": {
+      "enabled": false,
+      "required_status_checks": {
+        "enforcement_level": "off",
+        "contexts": [
+
+        ]
+      }
+    },
+    "protection_url": "https://api.github.com/repos/DeekshithSN/microservices-architect-config-starter/branches/ui-repo-geo/protection"
+  }
+]
